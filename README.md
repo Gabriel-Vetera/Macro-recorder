@@ -30,4 +30,7 @@ IDEA Microsoft Visual Studio. Written and compiled in C# .NET Framework v4.7.2
 
 &#8226; Playback support in every program
 
+# [Download Release Build](https://cloud.vetera-dev.de/s/aBjKesyyWSfFosH)
+
+
 © APACHE LICENSE, VERSION 2.0
