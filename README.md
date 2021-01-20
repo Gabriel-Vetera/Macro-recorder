@@ -12,12 +12,6 @@ IDEA Microsoft Visual Studio. Written and compiled in C # .NET Framework v4.7.2
 
 &#9055; Save & Load recordings
 
-# Future Features
-
-&#8226; Record & Play mouse wheel input
-
-&#8226; Playback support in every program
-
 # Editing Mode
 
 &#8226; Drag and Drop your saved Macros
@@ -29,6 +23,13 @@ IDEA Microsoft Visual Studio. Written and compiled in C # .NET Framework v4.7.2
 &#8226; Add time and pixel variation to your recorded Macro
 
 &#8226; Combine multiple recordings and playbacks together
+
+# Future Features
+
+&#8226; Record & Play mouse wheel input
+
+&#8226; Playback support in every program
+
 .
 
 &#8858; test1
