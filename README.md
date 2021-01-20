@@ -1,6 +1,7 @@
 # Macro-recorder
 IDEA Microsoft Visual Studio. Written and compiled in C # .NET Framework
 
+
 # Features
 
 &#9055; Record Keyboard
@@ -17,7 +18,7 @@ IDEA Microsoft Visual Studio. Written and compiled in C # .NET Framework
 
 &#8226; Record & Play mouse wheel input
 
-&#8226; Record & Play mouse wheel input
+&#8226; Playback in every window
 
 .
 
