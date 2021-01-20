@@ -6,9 +6,9 @@ IDEA Microsoft Visual Studio. Written and compiled in C # .NET Framework v4.7.2
 
 &#9055; Record Keyboard & Mouse
 
-&#9055; Play Keyboard&Mouse recoards
+&#9055; Playback of Keyboard & Mouse recoards
 
-&#9055; Edit recoards
+&#9055; Recoards Editor
 
 &#9055; Save & Load record
 
