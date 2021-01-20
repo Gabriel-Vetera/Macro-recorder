@@ -33,4 +33,4 @@ IDEA Microsoft Visual Studio. Written and compiled in C# .NET Framework v4.7.2
 # [Download Release Build](https://drive.google.com/file/d/1m1R-XpuxyCM03xaGpVdlbQEkp_85njGL/view?usp=sharing)
 
 
-© Vetera-Gabriel, Apache-2.0 License
+© Gabriel-Vetera, Apache-2.0 License
